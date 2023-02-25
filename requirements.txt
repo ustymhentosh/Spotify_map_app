@@ -4,3 +4,4 @@ Requests
 PyCountry
 Folium
 GeoJSON
+Spotify CLIENT ID, CLIENT SECRET
