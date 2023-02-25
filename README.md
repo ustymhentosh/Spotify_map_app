@@ -26,11 +26,11 @@ Press CTRL+C to quit
 
 Now go to your [localhost](http://127.0.0.1:5000) trough right port. You should see this on page.
 
-![Untitled](Spotify_map_app%2099166f6ba5db43858889640fd1ac06f5/Untitled.png)
+![Untitled](https://github.com/ustymhentosh/Spotify_map_app/blob/develop/photos/p1.png)
 
 Enter relevant information, after some time ≈ 10s the map of markets should appear
 
-![Untitled](Spotify_map_app%2099166f6ba5db43858889640fd1ac06f5/Untitled%201.png)
+![Untitled](https://github.com/ustymhentosh/Spotify_map_app/blob/develop/photos/p2.png)
 
 ### Important Functions:
 
