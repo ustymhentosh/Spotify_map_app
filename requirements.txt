@@ -1,0 +1,7 @@
+Python 3.x
+Flask
+Requests
+PyCountry
+Folium
+GeoJSON
+Spotify CLIENT ID, CLIENT SECRET
